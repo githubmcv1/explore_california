@@ -10,3 +10,10 @@ assets/videos/
 !assets/videos/tour_*.mp4
 
 # question: would log/archive/access.log be ignored? No.
+#
+# Usual files to ignore
+# - compiled source code
+# - packages and compressed files
+# - logs and databases
+# - operating system generated files
+# - user-uploaded assets (images, PDFs, videos)
